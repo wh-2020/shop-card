@@ -8,3 +8,7 @@
 pip3 install ddddocr
 pip3 install requests
 ```
+
+## 我的博客
+
+<https://www.zyfun.cn/72.html>
